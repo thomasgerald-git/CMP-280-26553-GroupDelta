@@ -1,14 +1,11 @@
-╔══════════════════════════════════════════════════════════════════════════════╗
-CMP-280-26553-GroupDelta                                  
-╚══════════════════════════════════════════════════════════════════════════════╝
+************************CMP-280-26553-GroupDelta************************                                  
 
 Repo containing all files for the **Creature Hatching Game**:
 Source Code • Pixel Art Assets • Animations • Audio • Save System • 
 Planning Documents • CMP-280-26553 Assignments
 
-╔══════════════════════════════════════════════════════════════════════════════╗
-                          FOLDER STRUCTURE                                   
-╚══════════════════════════════════════════════════════════════════════════════╝
+***************************FOLDER STRUCTURE***************************                                   
+
 
     ┌──────────────────────┐
     │     Design           │ → All deliverables, documentation, and diagrams 
