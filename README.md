@@ -23,8 +23,7 @@ Planning Documents • CMP-280-26553 Assignments
     └──────────────────────┘
 
     ┌──────────────────────┐
-    │        UI            │ → UI Examples, mockups, wireframes, and design 
-    │                      │   references
+    │        UI            │ → UI Examples, mockups
     └──────────────────────┘
 
 Each folder is self-contained with its main document and all related files.
